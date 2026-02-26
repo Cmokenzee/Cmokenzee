@@ -1,16 +1,17 @@
-## Hi there 👋
+Hey, I'm Matěj 👋
+Firmware developer & web dev from Czechia.
+I build things that run on microcontrollers and in the browser — embedded systems, .NET backend, and modern web apps. Currently working part-time on IoT firmware and studying IT.
+What I do
 
-<!--
-**Cmokenzee/Cmokenzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded — STM32, Zephyr RTOS, LoRaWAN, ESP32, Arduino
+Backend — C#, .NET, REST APIs, Entity Framework, PostgreSQL
+Desktop — WPF applications, MVVM, serial communication
+Web — React, Next.js, Blazor, HTML/CSS, TypeScript
+Hardware — IoT prototypes, PCB integration, sensor networks
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently
+🔧 Writing firmware for IoT devices (STM32 + Zephyr + LoRaWAN)
+🎓 Finishing high school, heading to university
+🌱 Building my project portfolio and learning every day
+Get in touch
+🔗 cmok.dev · LinkedIn · matej@example.com
