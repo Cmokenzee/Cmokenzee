@@ -14,4 +14,4 @@ Currently
 🎓 Finishing high school, heading to university
 🌱 Building my project portfolio and learning every day
 Get in touch
-🔗 cmok.dev · LinkedIn · matej@example.com
+🔗 cmok.dev · LinkedIn · matej.zednik2005@gmail.com
